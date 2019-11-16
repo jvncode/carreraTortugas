@@ -1,4 +1,4 @@
 # Carrera de Tortugas
 
-Proyecto que muestra cómo hacer utilizar objetos de tipo turtle.
+Proyecto que muestra cómo utilizar objetos de tipo turtle.
 
